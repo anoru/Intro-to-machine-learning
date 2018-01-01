@@ -70,3 +70,15 @@ print NBAccuracy(features_train, labels_train, features_test, labels_test)
 # 0.9795221843
 
 # {'acc_min_samples_split_50': 0.912, 'acc_min_samples_split_2': 0.908}
+
+# Number of features in train data: 3785
+# Number of features in test data: 3785
+# Training time: 74.993 s
+# Prediction time: 0.027 s
+# 0.980659840728
+
+# Number of features in train data: 379
+# Number of features in test data: 379
+# Training time: 5.464 s
+# Prediction time: 0.003 s
+# 0.966439135381
